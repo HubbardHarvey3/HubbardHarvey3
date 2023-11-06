@@ -1,7 +1,7 @@
 Hello Citizen, I'm Hubbard
 
 What I do:
-Release Engineer at Greenway Health
+Software Engineer at Greenway Health
 
 What I work on at work: 
 Automations, Gerrit, Docker, Shell Scripting, Jenkins/Groovy, Terraform, AWS Services, Python, Helping Dev Teams who work with varied technologies
